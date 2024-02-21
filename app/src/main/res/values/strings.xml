@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">RMachoR</string>
+    <string name="autor">AUTOR</string>
+    <string name="continuar">CONTINUAR</string>
+    <string name="title_activity_autor">Autor</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="volver">Volver</string>
+    <string name="description_monument_add">Añadir monumento</string>
+    <string name="description_image_photo">Foto</string>
+    <string name="id">Id Monumento</string>
+    <string name="requiered">Requerido</string>
+    <string name="nombre">Nombre</string>
+    <string name="descripcion">Descripción</string>
+    <string name="hint_photo_url">Url Fotografía</string>
+    <string name="guardar">Guardar</string>
+    <string name="compartir">Compartir</string>
+    <string name="errorLogin">Usuario y contraseña incorrectos</string>
+    <string name="nombreVacio">El nombre no puede estar vacío</string>
+    <string name="contraVacia">La contraseña no puede estar vacía</string>
+    <string name="password">Contraseña</string>
+    <string name="validar">VALIDAR</string>
+    <string name="cancelar">CANCELAR</string>
+</resources>
